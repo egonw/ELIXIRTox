@@ -2,5 +2,8 @@
     "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
     "tags": ["ELIXIRTox", "ELIXIRToxicology"],
     "accounts": [],
-    "theme": "dark"
+    "theme": "dark",
+    "hideSensitive": false,
+    "hideBots": false,
+    "hideReplies": false
 }
